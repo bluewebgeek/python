@@ -1,0 +1,7 @@
+1.Download and install Python
+2.Download and setup packages for python
+3.Python hello world
+4.IDE notepad, eclipse, idle
+5.array, data type,
+6.loop
+7.function 
